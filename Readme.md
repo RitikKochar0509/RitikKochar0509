@@ -12,14 +12,14 @@ Welcome to my Profile!
 ![](https://github.com/web-codegrammer/web-codegrammer/blob/master/svg/header_.png)
 
 
-# <p align="center"><h3 align="center"><samp> I'm A MERN Stack Developer </samp></h3></p>
+# <p align="center"><h3 align="center"><samp> I'm A Full Stack Developer </samp></h3></p>
 
 
 <div>
   <br>
   
 - 🌍 <samp>Roots from India
-- 👷 <samp>B.Tech in Computer Engrineering(2018-2022)
+- 👷 <samp>B.Tech in Computer Engrinering(2018-2022)
 - 💬 <samp>Ask me about JavaScript/React/web development/C++/Data structures and algorithms
 - ♟ <samp>I love developing full stack web applications.
 - ⚡ <samp>Fun fact: I am boring and sometimes dumb though, but I am a determined person.
