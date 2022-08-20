@@ -39,7 +39,7 @@ Welcome to my Profile!
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="50" height="50" alt="Express" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" height="50" alt="NPM" /></a>   
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="50" height="50" alt="Express" /></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/py-colored-dark.svg" width="50" height="50" alt="Express" /></a>
+    
   </span>
   
 <h2><b><samp>Tools and Platform</samp></b></h2>
